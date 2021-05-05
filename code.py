@@ -10,4 +10,4 @@ captcha_audio = AudioCaptcha()
 captcha_data = captcha_audio.generate('123')
 
 # Write to the file
-audio.write('789', 'demo2.wav')
+captcha_audio.write('123', 'demo2.wav')
