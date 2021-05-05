@@ -9,3 +9,4 @@ captcha_audio = AudioCaptcha()
 # Define data
 captcha_data = captcha_audio.generate('123')
 
+# Write to the file
