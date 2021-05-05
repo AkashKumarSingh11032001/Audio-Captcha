@@ -5,3 +5,4 @@ from captcha.audio import AudioCaptcha
 
 # Define properties
 captcha_audio = AudioCaptcha()
+
