@@ -7,4 +7,4 @@ from captcha.audio import AudioCaptcha
 captcha_audio = AudioCaptcha()
 
 # Define data
-data = audio.generate('789')
+captcha_data = captcha_audio.generate('789')
